@@ -1,5 +1,16 @@
-# Salary-Prediction-of-Data-Professions-Mentorness-ML-Internship-Project-2
+# Salary Prediction of Data Professions
 
-Title: Salary Prediction of Data Professions
+***Overview:***
+Developed predictive models to estimate salaries of data professionals using a comprehensive dataset with demographic, job, and performance metrics.
 
-Discription: The project "Salary Prediction of Data Professions" utilizes a dataset containing various attributes of data professionals, including demographics, job details, and performance metrics. After importing necessary libraries and data, preprocessing steps like handling missing values and outliers were executed. Exploratory data analysis provided insights into the data distribution and relationships between variables. Feature engineering involved creating new features like years of experience and experience levels. Four models - Linear Regression, Decision Tree, Random Forest, and Gradient Boosting - were trained and evaluated for their performance in predicting salaries. Linear Regression proved robust with accurate predictions and low error rates. Decision Tree showed moderate performance but potential for improvement. Random Forest exhibited minimal deviation from actual values, making it a suitable choice. Gradient Boosting displayed strong performance and high accuracy, making it the preferred model. Each model has its strengths, catering to different requirements of salary prediction tasks.
+***Key Steps:***
+- **Data Preprocessing:** Handled missing values and outliers.
+- **Exploratory Data Analysis:** Gained insights into data distribution and variable relationships.
+- **Feature Engineering:** Created new features like years of experience and experience levels.
+- **Model Training and Evaluation:** Trained and evaluated Linear Regression, Decision Tree, Random Forest, and Gradient Boosting models. Gradient Boosting achieved the highest accuracy.
+
+***Skills Used:*** Python, Data Preprocessing, Exploratory Data Analysis, Feature Engineering, Machine Learning, Linear Regression, Decision Tree, Random Forest, Gradient Boosting
+
+***Conclusion:***
+This project highlights the use of various machine learning models to predict salaries, with Gradient Boosting emerging as the most accurate model.
+
